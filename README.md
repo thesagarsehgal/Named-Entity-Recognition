@@ -1,0 +1,2 @@
+# Named-Entity-Recognition
+An end to end Language Independent  Deep Learning model built using Keras to predict the Named Entity for Indian Languages. The model makes use of the different contextual information of the words along with the Word-Level and Character-Level features that are helpful in predicting the various Named Entity Classes. No domain-specific knowledge and no handcrafted rules of any sort to attain good results. We used 2CNN+LSTM model consisting of CNN as character-level encoder, CNN as word-level encoder and BiLSTM as the Tag Decoder.
