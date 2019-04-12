@@ -7,17 +7,17 @@ An end to end Language Independent  Deep Learning model built using Keras to pre
 The link for the published Working Notes http://ceur-ws.org/Vol-2266/T3-3.pdf
 
 ### Tech Stack
-Python
-Keras
+- Python
+- Keras
 
 ### How to Run
 1. Install all the dependencies by 
-'''
+```
 pip install -r requirements.txt
-'''
+```
 2. The dataset is available in the datasetgt folder as compressed files, please extract the dataset
 3. Go through the notebook for the codes of each language.
 
 
 
-*Due to Size Limit on github, I have not uploaded the trained model file.*
+*Due to file size limit on github, I have not uploaded the trained model file.*
