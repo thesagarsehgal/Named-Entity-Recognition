@@ -81,7 +81,7 @@ kiwisolver==1.0.1
 Lasagne==0.2.dev1
 leveldb==0.194
 libindic-soundex==1.1.4.dev11
-lxml==4.3.0
+lxml==4.6.3
 Markdown==3.0.1
 MarkupSafe==1.0
 matplotlib==2.0.2
