@@ -175,7 +175,7 @@ ujson==1.35
 unicodecsv==0.14.1
 UNKNOWN==0.0.0
 uritemplate==3.0.0
-urllib3==1.22
+urllib3==1.26.5
 verboselogs==1.7
 watson-developer-cloud==2.4.1
 wcwidth==0.1.7
